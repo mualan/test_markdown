@@ -31,7 +31,7 @@ summary(cars)
 ##  Max.   :25.0   Max.   :120.00
 ```
 
-## Including Plots
+## Including Plots - the plot is not shown in github
 
 You can also embed plots, for example:
 
